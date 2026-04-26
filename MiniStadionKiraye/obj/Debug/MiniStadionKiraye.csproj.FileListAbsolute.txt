@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MiniStadionKiraye\bin\Debug\MiniStadionKiraye.exe.config
+C:\Users\User\source\repos\MiniStadionKiraye\bin\Debug\MiniStadionKiraye.exe
+C:\Users\User\source\repos\MiniStadionKiraye\bin\Debug\MiniStadionKiraye.pdb
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.Form1.resources
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.Properties.Resources.resources
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.exe
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.pdb
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.CustomerForm.resources
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.PaymentsForm.resources
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.StadiumForm.resources
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.StadiumScheduleForm.resources
+C:\Users\User\source\repos\MiniStadionKiraye\obj\Debug\MiniStadionKiraye.ReservationForm.resources
